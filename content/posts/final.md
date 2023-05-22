@@ -119,6 +119,8 @@ The US has become more globalized, with low-wage nations putting pressure on com
 ![img](https://s3-us-west-1.amazonaws.com/glpro/ah/15/ess/img/15a42-50.png "The working poor are classified as people who are working but their incomes fall below what the federal government calls the poverty line — the minimum income needed to sustain a family. The Bureau of Labor Statistics began to more accurately track the numbers of working poor in 1987, classifying them as working for at least 27 weeks or more but with wages that fall below the poverty line.")
 
 
+{{< figure src="https://s3-us-west-1.amazonaws.com/glpro/ah/15/ess/img/15a42-50.png" caption="this asterisk * shows up fine _ this underscore too, but **bold** and _italics_ still work fine" >}}
+
 ## De-industrialization and the Rise of The Service Economy
 
 The decline of manufacturing and the growth of the service sector altered the composition of the US labor force. Service sector jobs often have different characteristics compared to manufacturing jobs, such as lower unionization rates, lower wages, and fewer benefits. This shift in employment composition has influenced labor laws and labor protections.
