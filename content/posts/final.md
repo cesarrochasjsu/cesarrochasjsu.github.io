@@ -82,53 +82,59 @@ Unions historically played a role in monitoring and enforcing labor laws. They a
 Unions have been instrumental in securing labor standards, such as minimum wages, overtime pay, workplace safety regulations, and job security provisions. The decline of unionized labor can result in the erosion of these standards, as there may be less pressure on employers and policymakers to maintain or strengthen them. This can lead to a weakening of labor laws and a reduction in worker protections.
 
 
-# Economic Factors
-
-The US economy has become more globally integrated, with competition from low-wage countries putting pressure on US businesses to cut costs. This has made it more difficult for workers to demand higher wages and better working conditions, as employers can easily relocate or outsource work to countries with weaker labor protections.
-
-> Four trends have defined the economy. First, deindustrialization means there are fewer high-paying manufacturing jobs and more low-paying service jobs. Second, automation through computers and human robots, is eliminating both kinds of labor. Third, companies find that they can globalize, or use less costly labor outside the US And finally, the American economy is becoming less stable because of financialization. In effect, the banking industry makes large amounts of money by lending more and more of it to the struggling American middle class, putting most American families into serious debt. (“Overview of Contemporary History, 1972-Present,” n.d.)
-
-
-## Globalization
-
-
-## Competition from low wage countries
-
-> In 1971, for the first time in almost 80 years, the United States imported more manufactured goods than it exported — a sign that industries in other parts of the world were surpassing America's capacity. That same year, President Nixon abruptly ended the guarantee that the United States would redeem, or buy, American dollars in gold. Thus, the United States dollar was no longer guaranteed to be the world's reserve currency, the currency that other nations would use to make international transactions. (Moreton, n.d.)
-
-
-### low-wage countries put pressure on US businesses to cut costs
-
-
-## Outsourcing and Relocation
-
-
-### employers can easily outsource or relocate work to countries with weaker labor protections
-
-
 # Cultural Factors
 
 
 ## Individualism and Self-Reliance
 
+The emphasis on individualism and self-reliance can shape public attitudes towards social safety nets and government interventions. In the US, there has been a historical preference for limited government involvement in economic matters. This can result in weaker social safety nets and less comprehensive labor protections compared to countries with a stronger emphasis on collective responsibility and social welfare.
 
-### US has a cultural emphasis on individualism and self-reliance
+The cultural emphasis on individualism manifests itself as a resistance to government intervention in the economy and labor relations. This resistance results in opposition to labor regulations and a preference for limited government involvement in employment matters. This creates challenges in enacting and enforcing robust labor laws that provide adequate protections for workers. This mitigated economic recovery during the Great Depression. 
 
 > Instead of stimulating the economy, the Hoover government did the opposite. Acting on the belief that the budget must be balanced, it raised taxes. Hoover and his advisors retained a fundamentally outdated faith in "rugged individualism" and the myth of independence, failing to understand how the majority of Americans depended on wages and had no way of earning a living independently. So the depression steadily deepened. (Gendzel, n.d.)
 
+Hoover favored voluntary efforts by private organizations and local governments to provide relief to those affected by the Depression. He established the President's Organization on Unemployment Relief (POUR) to coordinate voluntary relief efforts, but the magnitude of the crisis overwhelmed these efforts. The limited relief measures proved insufficient in addressing the widespread unemployment and economic distress experienced during the Great Depression.
+
 > President Herbert Hoover took office early in 1929 promising that the future was "bright with hope," but by the end of the year he was nervously urging Americans not to panic. The fundamental economy was sound, the president insisted, despite the Great Crash. But Hoover's faith in business self-regulation without interference from government now betrayed him as the economy dissolved into the Great Depression. (Gendzel, n.d.)
+
+Hoover held a strong belief in laissez-faire economics, which advocated minimal government intervention in the economy. He believed that the market would naturally correct itself and that government intervention could potentially hinder economic recovery. Consequently, his initial response to the Great Depression was characterized by a reliance on voluntary cooperation between businesses and limited government intervention.
+
+Hoover's failure to effectively address the economic crisis damaged his public image and created a perception of him as indifferent to the suffering of the American people. The shantytowns that emerged during the Depression, named "Hoovervilles," reflected the public's frustration and dissatisfaction with his response to the crisis.
 
 
 ## View of Labor Protections
 
-
-### view strong labor laws are a threat to economic growth or as an infringement on individual freedoms
+The belief that strong labor laws hinder economic growth and infringe on individual freedoms can influence policy debates and shape the political landscape. This perspective may result in political resistance to strengthening labor laws or lead to the rollback of existing labor protections, as policymakers prioritize economic considerations and business interests over worker rights.
 
 
 ## Perception of Labor Unions
 
+The perception that labor unions are too politically powerful or out of touch with worker needs can influence public opinion on labor issues. This, in turn, can shape the broader discourse and political climate around labor laws. Public sentiment may influence policymakers' decisions regarding the strength and direction of labor protections.
 
-### labor unions as being too politically powerful or as being out of touch with the needs of workers
+
+# Economic Factors
+
+The US has become more globalized, with low-wage nations putting pressure on companies to reduce their costs. Because of this, workers have a harder time demanding better working conditions and higher wages. Employers can easily take jobs in countries with weaker labor standards.
+
+
+## De-industrialization and the Rise of The Service Economy
+
+The decline of manufacturing and the growth of the service sector altered the composition of the US labor force. Service sector jobs often have different characteristics compared to manufacturing jobs, such as lower unionization rates, lower wages, and fewer benefits. This shift in employment composition has influenced labor laws and labor protections.
+
+> Four trends have defined the economy. First, deindustrialization means there are fewer high-paying manufacturing jobs and more low-paying service jobs. Second, automation through computers and human robots, is eliminating both kinds of labor. Third, companies find that they can globalize, or use less costly labor outside the US And finally, the American economy is becoming less stable because of financialization. In effect, the banking industry makes large amounts of money by lending more and more of it to the struggling American middle class, putting most American families into serious debt. (“Overview of Contemporary History, 1972-Present,” n.d.)
+
+The shift to the service economy prompted an increased focus on labor standards enforcement. With the growth of low-wage service jobs, concerns about wage theft, workplace safety, and other labor violations gained attention. Labor law enforcement agencies had to adapt their practices to address these new challenges and ensure compliance with labor standards.
+
+Overall, the de-industrialization and the rise of the service economy in the 1970s transformed the economic landscape and influenced the development and application of labor laws in the United States. The changing nature of work, the decline of traditional labor movements, and the need to address new employment realities posed challenges for labor laws, leading to adjustments and adaptations to accommodate the evolving labor market.
+
+
+## Globalization
+
+The US economy has become more globally integrated, with competition from low-wage countries putting pressure on US businesses to cut costs. This has made it more difficult for workers to demand higher wages and better working conditions, as employers can easily relocate or outsource work to countries with weaker labor protections.
+
+> In 1971, for the first time in almost 80 years, the United States imported more manufactured goods than it exported — a sign that industries in other parts of the world were surpassing America's capacity. That same year, President Nixon abruptly ended the guarantee that the United States would redeem, or buy, American dollars in gold. Thus, the United States dollar was no longer guaranteed to be the world's reserve currency, the currency that other nations would use to make international transactions. (Moreton, n.d.)
+
+Globalization has facilitated the offshoring and outsourcing of jobs to countries with lower labor costs. This has led to the loss of manufacturing jobs and a shift towards service-oriented and knowledge-based sectors in the US. In response, some argue that labor laws should be more flexible to adapt to this changing economic landscape, potentially resulting in weakened labor protections and greater job insecurity.
 
 
 # Conclusion
