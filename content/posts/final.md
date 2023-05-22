@@ -37,6 +37,9 @@ Critics believe that the court's ruling in the Citizens United case was a victor
 
 ## Weak Unions
 
+{{< figure src="https://files.epi.org/charts/img/237498-29125.png" caption="(Banerjee, n.d.)" >}}
+
+
 Due to the lack of resources and the capacity to enforce labor laws, weak unions are often unable to carry out their duties effectively.
 
 > unions promote economic equality and build worker power, helping workers to win increases in pay, better benefits, and safer working conditions. (Banerjee, n.d.)
@@ -115,9 +118,7 @@ The public's perception of labor unions as out of touch with the needs of worker
 
 Due to the globalization of the US, companies have been forced to reduce their costs. This has made it harder for workers to demand higher wages and better working conditions. Employers can now take jobs in other countries with weaker labor standards.
 
-![img](https://s3-us-west-1.amazonaws.com/glpro/ah/15/ess/img/15a42-50.png "The working poor are classified as people who are working but their incomes fall below what the federal government calls the poverty line — the minimum income needed to sustain a family. The Bureau of Labor Statistics began to more accurately track the numbers of working poor in 1987, classifying them as working for at least 27 weeks or more but with wages that fall below the poverty line.")
-
-{{< figure src="https://s3-us-west-1.amazonaws.com/glpro/ah/15/ess/img/15a42-50.png" caption="this asterisk * shows up fine _ this underscore too, but **bold** and _italics_ still work fine" >}}
+{{< figure src="https://s3-us-west-1.amazonaws.com/glpro/ah/15/ess/img/15a42-50.png" caption="The working poor are classified as people who are working but their incomes fall below what the federal government calls the poverty line — the minimum income needed to sustain a family. The Bureau of Labor Statistics began to more accurately track the numbers of working poor in 1987, classifying them as working for at least 27 weeks or more but with wages that fall below the poverty line. (Moreton, n.d.)" >}}
 
 ## De-industrialization and the Rise of The Service Economy
 
