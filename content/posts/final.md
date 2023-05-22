@@ -116,10 +116,7 @@ The perception that labor unions are too politically powerful or out of touch wi
 
 The US has become more globalized, with low-wage nations putting pressure on companies to reduce their costs. Because of this, workers have a harder time demanding better working conditions and higher wages. Employers can easily take jobs in countries with weaker labor standards.
 
-![img](https://s3-us-west-1.amazonaws.com/glpro/ah/15/ess/img/15a42-50.png "The working poor are classified as people who are working but their incomes fall below what the federal government calls the poverty line — the minimum income needed to sustain a family. The Bureau of Labor Statistics began to more accurately track the numbers of working poor in 1987, classifying them as working for at least 27 weeks or more but with wages that fall below the poverty line.")
-
-
-{{< figure src="https://s3-us-west-1.amazonaws.com/glpro/ah/15/ess/img/15a42-50.png" caption="this asterisk * shows up fine _ this underscore too, but **bold** and _italics_ still work fine" >}}
+{{< figure src="https://s3-us-west-1.amazonaws.com/glpro/ah/15/ess/img/15a42-50.png" caption="The working poor are classified as people who are working but their incomes fall below what the federal government calls the poverty line — the minimum income needed to sustain a family. The Bureau of Labor Statistics began to more accurately track the numbers of working poor in 1987, classifying them as working for at least 27 weeks or more but with wages that fall below the poverty line. (“Overview of Contemporary History, 1972-Present,” n.d.)" >}}
 
 ## De-industrialization and the Rise of The Service Economy
 
