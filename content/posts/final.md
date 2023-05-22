@@ -37,6 +37,8 @@ Critics see this ruling favoring the interests of corporations and wealthy indiv
 
 ## Weak Unions
 
+{{< figure src="https://files.epi.org/charts/img/237498-29125.png" caption="(Banerjee, n.d.)" >}}
+
 Weak unions mean limited enforcement of labor laws as they lack the resources and organizational capacity to enforce existing labor laws effectively. 
 
 > unions promote economic equality and build worker power, helping workers to win increases in pay, better benefits, and safer working conditions. (Banerjee, n.d.)
